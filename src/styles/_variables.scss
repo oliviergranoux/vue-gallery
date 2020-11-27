@@ -1,0 +1,47 @@
+/******* WIDTH *******/
+
+//albums
+$width-thumbnail: 500px;
+
+//variables used for media queries
+//do not change the name of these variables!!!
+$width-landscape-phone: 576px;
+$width-medium-device: 768px;
+$width-desktop: 992px;
+$width-large-desktop: 1200px;
+
+/******* COLOR *******/
+
+$color-cookie: #957465;
+$color-mustard: #edd989;
+$color-olive: #a6a971;
+$color-neutral-dark: #000;
+$color-neutral-light: #fff;
+
+$color-background: lighten($color-mustard, 25%);
+
+$color-text-light: $color-neutral-light;
+$color-text-dark: darken($color-olive, 15%);
+
+$color-shadow-box: lighten($color-neutral-dark, 25%);
+$color-shadow-text: lighten($color-neutral-dark, 82.5%);
+
+$color-link: $color-olive;
+$color-selected: darken($color-olive, 35%);
+
+$color-from: lighten($color-olive, 20%);
+$color-to: lighten($color-olive, 30%);
+
+/******* MEDIA QUERIES *******/
+
+$device-landscape-phone: landscape-phone;
+$device-medium: medium-device;
+$device-desktop: desktop;
+$device-large-desktop: large-desktop;
+
+$browser-firefox: firefox;
+
+/******* OTHERS *******/
+
+$layout-max-width: $width-large-desktop;
+

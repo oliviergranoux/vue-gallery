@@ -1,0 +1,61 @@
+/* 
+Bootstrap 4 breakpoints
+Extra small devices (portrait phones) 
+No media query since this is the default in Bootstrap because it is "mobile first"
+*/
+
+@mixin responsive($device) {
+  @if $device == $device-landscape-phone {
+    @media only screen and (min-width: $width-landscape-phone) {
+      @content;
+    }
+  }
+  @else if $device == $device-medium {
+    @media only screen and (min-width: $width-medium-device) {
+      @content;
+    }
+  }
+  @else if $device == $device-desktop {
+    @media only screen and (min-width: $width-desktop) {
+      @content;
+    }
+  }
+  @else if $device == $device-large-desktop {
+    @media only screen and (min-width: $width-large-desktop) {
+      @content;
+    }
+  }
+}
+
+
+@mixin specific-browser($browser) {
+  @if $browser == $browser-firefox {
+    // http://browserhacks.com/
+    // Firefox >= 22
+    @supports (-moz-appearance:meterbar) and (display:flex) {
+      @content;
+    }
+  }
+}
+
+@mixin responsive-width-images() {
+  /* hack - Chrome seems to not accept width: auto like Firefox does */
+  max-width: $width-thumbnail;
+  width: 100%;
+
+  @include responsive($device-landscape-phone) {
+      width: 50%;
+  }
+  
+  @include responsive($device-medium) {
+      width: 33%;
+  }
+
+  @include responsive($device-desktop) {
+      width: 25%;
+  }
+
+  @include specific-browser($browser-firefox) {
+      width: auto !important;
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "albums": [
+    { 
+      "id": 1, 
+      "folder": "trinity-kubassek", 
+      "caption": "Trinity Kubassek",
+      "images": [
+        {
+          "filename": "StockSnap_H8UBNZ7GK1",
+          "caption": "Microphone - <a href='https://stocksnap.io/author/trinity' title='Trinity Kubassek'>by Trinity Kubassek from StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_IWAASXPNPZ",
+          "caption": "Sunset - <a href='https://stocksnap.io/author/trinity' title='Trinity Kubassek'>by Trinity Kubassek from StockSnap</a>"
+        },
+        {
+        "filename": "StockSnap_MLUHM6YETW",
+        "caption": "Beach - <a href='https://stocksnap.io/author/trinity' title='Trinity Kubassek'>by Trinity Kubassek from StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_PZC8QNTP4Z",
+          "caption": "Children - <a href='https://stocksnap.io/author/trinity' title='Trinity Kubassek'>by Trinity Kubassek from StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_Q2ZMHVIPYQ",
+          "caption": "Cow - <a href='https://stocksnap.io/author/trinity' title='Trinity Kubassek'>by Trinity Kubassek from StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_QNQ5HNPDTJ",
+          "caption": "Sheep - <a href='https://stocksnap.io/author/trinity' title='Trinity Kubassek'>by Trinity Kubassek from StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_UT7IO1NLVQ",
+          "caption": "Dog - <a href='https://stocksnap.io/author/trinity' title='Trinity Kubassek'>by Trinity Kubassek from StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_XI1A9JKHK0",
+          "caption": "No trepassing - <a href='https://stocksnap.io/author/trinity' title='Trinity Kubassek'>by Trinity Kubassek from StockSnap</a>"
+        }
+      ]
+    },
+    { 
+      "id": 2, 
+      "folder": "humphrey-muleba", 
+      "caption": "Humphrey Muleba",
+      "images": [
+        {
+          "filename": "StockSnap_W9LWWZEVU0",
+          "caption": "Photo by <a href='https://stocksnap.io/author/humphreymuleba'>Humphrey Muleba</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_TIHQMAG3KH",
+          "caption": "Photo by <a href='https://stocksnap.io/author/humphreymuleba'>Humphrey Muleba</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_26OLIALPKJ",
+          "caption": "Photo by <a href='https://stocksnap.io/author/humphreymuleba'>Humphrey Muleba</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_CFDRMTWPOE",
+          "caption": "Photo by <a href='https://stocksnap.io/author/humphreymuleba'>Humphrey Muleba</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_DPQKQ0FJK1",
+          "caption": "Photo by <a href='https://stocksnap.io/author/humphreymuleba'>Humphrey Muleba</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_FJK8M75ELF",
+          "caption": "Photo by <a href='https://stocksnap.io/author/humphreymuleba'>Humphrey Muleba</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_LNCLN1NE6K",
+          "caption": "Photo by <a href='https://stocksnap.io/author/humphreymuleba'>Humphrey Muleba</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_MBGMKPIOHZ",
+          "caption": "Photo by <a href='https://stocksnap.io/author/humphreymuleba'>Humphrey Muleba</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        }
+      ]
+    },
+    { 
+      "id": 3, 
+      "folder": "frances-gunn", 
+      "caption": "Frances Gunn",
+      "images": [
+        {
+          "filename": "StockSnap_04SDP2ULVG",
+          "caption": "Photo by <a href='https://stocksnap.io/author/49990'>Frances Gunn</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_4AQEUP2PRE",
+          "caption": "Photo by <a href='https://stocksnap.io/author/49990'>Frances Gunn</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_80K01V0IOM",
+          "caption": "Photo by <a href='https://stocksnap.io/author/49990'>Frances Gunn</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_N82MAGQZNO",
+          "caption": "Photo by <a href='https://stocksnap.io/author/49990'>Frances Gunn</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        },
+        {
+          "filename": "StockSnap_Q9PZ2MMWS9",
+          "caption": "Photo by <a href='https://stocksnap.io/author/49990'>Frances Gunn</a> from <a href='https://stocksnap.io'>StockSnap</a>"
+        }
+      ]
+    }
+  ]
+}
